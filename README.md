@@ -2,22 +2,22 @@
 DevSecOps is a practice of incorporating security at the beginning of an application lifecycle, as a part of DevOps, thus minimizing vulnerabilities by aligning security with IT and business objectives. Embedding security into the development process rather than adding as a “layer on top” allows DevOps and security professionals to harness the power of agile methodologies together as a team. The goal of DevSecOps is to bridge traditional gaps between IT and security while ensuring expedited delivery of secure solutions.
 
 Code analysis
-    - Embed automatic software vulnerabilities detection tools such as Snyk into your DevOps pipelines.
+- Embed automatic software vulnerabilities detection tools such as Snyk into your DevOps pipelines.
 
 Change management
-    - Increase speed and efficiency by allowing anyone to submit changes, then determine whether the change is good or bad.
+- Increase speed and efficiency by allowing anyone to submit changes, then determine whether the change is good or bad.
 
 Compliance monitoring
-    - Automate compliance and be ready for an audit at any time (which means being in a constant state of compliance, including gathering evidence of GDPR compliance, PCI compliance, etc.).
+- Automate compliance and be ready for an audit at any time (which means being in a constant state of compliance, including gathering evidence of GDPR compliance, PCI compliance, etc.).
     
 Threat investigation
-    - Identify potential emerging threats with each code update and be able to respond quickly.
+- Identify potential emerging threats with each code update and be able to respond quickly.
     
 Vulnerability assessment
-    - Identify new vulnerabilities with code analysis, then analyze how quickly they are being responded to and patched.
+- Identify new vulnerabilities with code analysis, then analyze how quickly they are being responded to and patched.
     
 Security training
-    - Train software and IT engineers with guidelines for set routines.
+- Train software and IT engineers with guidelines for set routines.
 
 ## Conclusion
 Just like DevOps, DevSecOps is a full-stack discipline, encompassing all aspects of the technology stack and product lifecycle. DevSecOps and DevOps are both not all or nothing and could be introduced gradually, at any IT project.
